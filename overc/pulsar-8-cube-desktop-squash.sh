@@ -3,11 +3,11 @@
 ##### This is for Pulsar 8 ONLY. #####
 
 # You can run this as follows
-
-wget https://raw.githubusercontent.com/jwessel/scratch/master/overc/pulsar-8-cube-desktop-squash.sh
-sh pulsar-8-cube-desktop-squash.sh
-
-
+# First login in as root on the dom0 console
+#  
+#   wget https://raw.githubusercontent.com/jwessel/scratch/master/overc/pulsar-8-cube-desktop-squash.sh
+#   sh pulsar-8-cube-desktop-squash.sh
+#
 # NOTE: This will destroy you cube desktop and replace it with a copy of dom0
 #       with the admin commands removed.
 #       A cleaner approach will exist in a future release
